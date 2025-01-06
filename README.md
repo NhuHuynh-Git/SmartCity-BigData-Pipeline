@@ -20,10 +20,9 @@ The pipeline consists of:
 SmartCity-BigData-Pipeline/
 - **data/**: Contains sample IoT sensor data.
 - **notebooks/**: Databricks notebooks for data ingestion and processing.
-- **scripts/**: Python and SQL scripts for pipeline operations.
 - **PowerBI/**: Power BI dashboard files.
 - **images/**: Screenshots of the pipeline, dashboard, etc.
-- **docs/**: Additional project documentation and guides.
+- **docs/**: Pipilines and additional project documentation.
 - **README.md**: Main project description and instructions.
 
 ## Setup Instructions
