@@ -21,7 +21,7 @@ SmartCity-BigData-Pipeline/
 - **data/**: Contains sample IoT sensor data.
 - **notebooks/**: Databricks notebooks for data ingestion and processing.
 - **PowerBI/**: Power BI dashboard files.
-- **images/**: Screenshots of the pipeline, dashboard, etc.
+- **images/**: Screenshots of setup and pipeline
 - **docs/**: Pipilines and additional project documentation.
 - **README.md**: Main project description and instructions.
 
