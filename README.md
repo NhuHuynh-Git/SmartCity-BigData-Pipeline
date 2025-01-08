@@ -17,7 +17,6 @@ The pipeline consists of:
 
 ## Repository Structure
 
-SmartCity-BigData-Pipeline/
 - **data/**: Contains sample IoT sensor data.
 - **notebooks/**: Databricks notebooks for data ingestion and processing.
 - **PowerBI/**: Power BI dashboard files.
